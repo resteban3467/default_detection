@@ -62,7 +62,7 @@ Este modelo es el más equilibrado, logrando identificar a más de la mitad de l
 
 * **Factores de Riesgo Más Importantes:** El análisis con SHAP reveló que el factor más predictivo es, por lejos, el **historial de pagos recientes ("PAY_0")**.
 
-![Gráfico de barras](shap_feature_importance.png)
+![Gráfico de barras](./fig/shap_feature_importance.png)
 
 ---
 ## Cómo Ejecutar el Proyecto
